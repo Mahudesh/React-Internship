@@ -1,0 +1,27 @@
+.border{
+    margin: 0 auto;
+  background-color: #f0f0f0;
+    padding-bottom: 20px;
+  width: 40%;
+  border: 1px solid #ccc;
+  margin-top: 20%;
+
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+}
+.buttonStyle
+{
+    background-color: #4CAF50; 
+    border: none; 
+    color: white;
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+}
