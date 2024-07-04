@@ -1,0 +1,77 @@
+.border{
+
+  background-color: #f0f0f0; 
+  width: 40%;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding-left: 10px;
+}
+footer {
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+.inline-list {
+  list-style-type: none;
+  padding: 0;
+}
+.item{
+  display: flex;
+}
+.font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: crimson;
+}
+.buttonStyle
+{
+    background-color: #4CAF50; 
+    border: none; 
+    color: white;
+    padding: 10px 10px; 
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 5px; 
+    height: 40px;
+    width: 100px;
+ 
+}
+.plusbutton
+{
+  background-color: #4CAF50; 
+    border: none; 
+    color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 5px; 
+    margin: 25px 30px;  
+    font-size: large;
+}
+.bookbutton{
+  
+  background-color: #4CAF50; 
+  border: none; 
+  color: white;
+  height: 50px;
+  width: 130px;
+  border-radius: 5px; 
+  margin: 17px 30px;  
+  font-size: large;
+  cursor: pointer;
+}
+footer {
+  background-color: #282c34;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+header {
+  background-color: #282c34;
+  padding: 1px;
+  color: white;
+  text-align: center;
+}
